@@ -1,0 +1,14 @@
+{
+  "infoURL": "https://commons.wikimedia.org/wiki/File:St._Mary%27s_College_hockey_team,_Montreal,.jpg",
+  "photo":   "https://upload.wikimedia.org/wikipedia/commons/4/4e/St._Mary%27s_College_hockey_team%2C_Montreal%2C.jpg",
+  "year":    1896,
+  "country": "CAN",
+  "city":    {
+    "en": "Montreal",
+    "es": "Montreal"
+  },
+  "location": {
+    "latitude":  45.511156, 
+    "longitude": -73.661552
+  }
+}

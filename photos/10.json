@@ -1,0 +1,14 @@
+{
+  "year": 2005,
+  "location": {
+    "latitude": 5.518886301381656,
+    "longitude": 95.35971947795339
+  },
+  "country": "IDN",
+  "infoURL": "https://commons.wikimedia.org/wiki/File:US_Navy_050114-N-6817C-233_The_people_of_Banda_Aceh,_Sumatra,_continue_to_rebuild_their_lives_following_the_devastating_tsunami_which_destroyed_most_of_the_homes_in_the_region.jpg",
+  "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/US_Navy_050114-N-6817C-233_The_people_of_Banda_Aceh%2C_Sumatra%2C_continue_to_rebuild_their_lives_following_the_devastating_tsunami_which_destroyed_most_of_the_homes_in_the_region.jpg/800px-thumbnail.jpg?20091022101659",
+  "city": {
+    "en": "Banda Aceh",
+    "es": "Banda Aceh"
+  }
+}

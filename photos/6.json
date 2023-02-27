@@ -1,0 +1,14 @@
+{
+  "year": 1978,
+  "location": {
+    "latitude": 35.09634562099684,
+    "longitude": 135.7366199122803
+  },
+  "country": "JPN",
+  "infoURL": "https://commons.m.wikimedia.org/wiki/File:Kyoto_City_Tram-04.jpg",
+  "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Kyoto_City_Tram-04.jpg/800px-Kyoto_City_Tram-04.jpg?20190501093710",
+  "city": {
+    "en": "Kyoto",
+    "es": "Kioto"
+  }
+}

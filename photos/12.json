@@ -1,0 +1,14 @@
+{
+  "year": 2009,
+  "location": {
+    "latitude": 59.35446215327829,
+    "longitude": 18.085592865472755
+  },
+  "country": "SWE",
+  "infoURL": "https://commons.wikimedia.org/wiki/File:Stampen,_Old_Town,_Stockholm.jpg",
+  "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Stampen%2C_Old_Town%2C_Stockholm.jpg/800px-Stampen%2C_Old_Town%2C_Stockholm.jpg?20100626165051",
+  "city": {
+    "en": "Stockholm",
+    "es": "Estocolmo"
+  }
+}

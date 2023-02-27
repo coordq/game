@@ -1,0 +1,14 @@
+{
+  "infoURL": "https://commons.wikimedia.org/wiki/File:Mercado_flotante,_Ayutthaya,_Tailandia,_2013-08-23,_DD_11.jpg",
+  "photo":   "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Mercado_flotante%2C_Ayutthaya%2C_Tailandia%2C_2013-08-23%2C_DD_11.jpg/1600px-Mercado_flotante%2C_Ayutthaya%2C_Tailandia%2C_2013-08-23%2C_DD_11.jpg?20131030210101",
+  "year":    2013,
+  "country": "THA",
+  "city":    {
+    "en": "Ayutthaya",
+    "es": "Ayutthaya"
+  },
+  "location": {
+    "latitude":  14.376139780613327, 
+    "longitude": 100.57015825939135
+  }
+}

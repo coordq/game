@@ -1,0 +1,14 @@
+{
+  "infoURL": "https://commons.wikimedia.org/wiki/File:Italian_Marines_Disembarking_at_Tripoli_-_Camera_Craft_Mar_1912.jpg",
+  "photo":   "https://upload.wikimedia.org/wikipedia/commons/5/57/Italian_Marines_Disembarking_at_Tripoli_-_Camera_Craft_Mar_1912.jpg",
+  "year":    1912,
+  "country": "LBY",
+  "city":    {
+    "en": "Tripoli",
+    "es": "Trípoli"
+  },
+  "location": {
+    "latitude":  32.88941361410101, 
+    "longitude": 13.190913581868402
+  }
+}

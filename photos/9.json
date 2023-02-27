@@ -1,0 +1,14 @@
+{
+  "year": 1936,
+  "location": {
+    "latitude": 52.51072308434115,
+    "longitude": 13.417286293677204
+  },
+  "country": "DEU",
+  "infoURL": "https://commons.wikimedia.org/wiki/File:Photo_-_Berlin_-_Olympiade_-_Leni_Riefenstahl_mit_Kameram%C3%A4nnnern_-_Max_Schirner_-_1936.jpg",
+  "photo": "https://upload.wikimedia.org/wikipedia/commons/5/57/Photo_-_Berlin_-_Olympiade_-_Leni_Riefenstahl_mit_Kameram%C3%A4nnnern_-_Max_Schirner_-_1936.jpg?20230107081925",
+  "city": {
+    "en": "Berlin",
+    "es": "Berlín"
+  }
+}
