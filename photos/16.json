@@ -1,0 +1,14 @@
+{
+  "year": 1942,
+  "location": {
+    "latitude": 37.73594237028455,
+    "longitude": -122.37241717412763
+  },
+  "country": "USA",
+  "infoURL": "https://commons.wikimedia.org/wiki/File:San_Francisco,_California._The_Japanese_quarter_of_San_Francisco_on_the_first_day_of_evacuation_fro_._._._-_NARA_-_537741.jpg",
+  "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/San_Francisco%2C_California._The_Japanese_quarter_of_San_Francisco_on_the_first_day_of_evacuation_fro_._._._-_NARA_-_537741.jpg/760px-San_Francisco%2C_California._The_Japanese_quarter_of_San_Francisco_on_the_first_day_of_evacuation_fro_._._._-_NARA_-_537741.jpg?20111112163641",
+  "city": {
+    "en": "San Francisco",
+    "es": "San Francisco"
+  }
+}
