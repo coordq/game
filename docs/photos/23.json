@@ -1,0 +1,14 @@
+{
+  "year": 2004,
+  "location": {
+    "latitude": 50.438822259434204,
+    "longitude": 30.54050484852191
+  },
+  "country": "UKR",
+  "infoURL": "https://en.wikipedia.org/wiki/Orange_Revolution",
+  "photo": "https://img.europapress.es/fotoweb/fotonoticia_20140623120858-610359_800.jpg?_gl=1*17dbjnn*_ga*MTE5ODg1MDkxMi4xNjc3Nzg2NTQw*_ga_2HWC8HS3FS*MTY3Nzc4NjU0MC4xLjAuMTY3Nzc4NjU0MC42MC4wLjA.",
+  "city": {
+    "en": "Kyiv",
+    "es": "Kiev"
+  }
+}

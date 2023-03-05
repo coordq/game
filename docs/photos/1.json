@@ -1,0 +1,14 @@
+{
+  "infoURL": "https://commons.wikimedia.org/wiki/File:St._Mary%27s_College_hockey_team,_Montreal,.jpg",
+  "photo":   "https://upload.wikimedia.org/wikipedia/commons/c/c6/Leidsestraat_Angola_Demonstratie1981_II.jpg",
+  "year":    1981,
+  "country": "NLD",
+  "city":    {
+    "en": "Amsterdam",
+    "es": "Amsterdam"
+  },
+  "location": {
+    "latitude":  52.3583611780021, 
+    "longitude": 4.928927239821027
+  }
+}

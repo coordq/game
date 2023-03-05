@@ -1,0 +1,14 @@
+{
+  "infoURL": "https://commons.wikimedia.org/wiki/File:Canary_Islands_2018-02-15_(40719191252).jpg",
+  "photo":   "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Canary_Islands_2018-02-15_%2840719191252%29.jpg/1600px-Canary_Islands_2018-02-15_%2840719191252%29.jpg?20181001064906",
+  "year":    2018,
+  "country": "ESP",
+  "city":    {
+    "en": "La Gomera",
+    "es": "La Gomera"
+  },
+  "location": {
+    "latitude":  28.11203145434413, 
+    "longitude": -17.282303309771603
+  }
+}
