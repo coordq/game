@@ -1,0 +1,14 @@
+{
+  "year": 1948,
+  "location": {
+    "latitude": 43.565150102760754,
+    "longitude": 7.071475088596347
+  },
+  "country": "FRA",
+  "infoURL": "https://www.artsy.net/artwork/robert-capa-pablo-picasso-and-francoise-gilot-golfe-juan-france-august-1948-1",
+  "photo": "https://d7hftxdivxxvm.cloudfront.net?height=800&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F4JWkJqy2ua74QQ8p3zidYA%2Fnormalized.jpg&width=600",
+  "city": {
+    "en": "Golfe-Juan",
+    "es": "Golfe-Juan"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "year": 1910,
+  "location": {
+    "latitude": 51.44829310143433,
+    "longitude": -0.08871193626216596
+  },
+  "country": "GBR",
+  "infoURL": "https://nzhistory.govt.nz/media/photo/suffrage-procession-london",
+  "photo": "https://nzhistory.govt.nz/files/styles/fullsize/public/anna-stout-london.jpg?itok=hem_K2mb",
+  "city": {
+    "en": "London",
+    "es": "Londres"
+  }
+}
