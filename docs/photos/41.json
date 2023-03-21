@@ -1,0 +1,14 @@
+{
+  "year": 2004,
+  "location": {
+    "latitude": 37.42602249925943,
+    "longitude": -122.13845961306845
+  },
+  "country": "USA",
+  "infoURL": "https://www.thecrimson.com/article/2005/2/24/business-casual-a-year-ago-mark/",
+  "photo": "https://s3.amazonaws.com/media.thecrimson.com/photos/2005/02/24/124452_1197689.jpg",
+  "city": {
+    "en": "Palo Alto",
+    "es": "Palo Alto"
+  }
+}
