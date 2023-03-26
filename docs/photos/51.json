@@ -1,0 +1,14 @@
+{
+  "year": 1945,
+  "location": {
+    "latitude": 35.8872841513959,
+    "longitude": -106.31005018166613
+  },
+  "country": "USA",
+  "infoURL": "https://www.businessinsider.in/An-unsettling-photo-of-a-US-physicist-cheerfully-holding-the-Fat-Man-atomic-bombs-core/articleshow/52297093.cms",
+  "photo": "https://2.bp.blogspot.com/-Cn_f-mx9Qo4/V9YtMawQHlI/AAAAAAAALB4/bud9yCOadVgqxBs6GL8SwDyP09atCNWlACLcB/s1600/Harold_Agnew_plutonium_core_1.jpg",
+  "city": {
+    "en": "Los Alamos",
+    "es": "Los Álamos"
+  }
+}
