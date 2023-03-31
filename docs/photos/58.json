@@ -1,0 +1,14 @@
+{
+  "year": 1973,
+  "location": {
+    "latitude": -33.48927542000534,
+    "longitude": -70.4914051853121
+  },
+  "country": "CHL",
+  "infoURL": "https://www.theguardian.com/theguardian/2009/sep/12/from-the-guardian-archive",
+  "photo": "https://i.guim.co.uk/img/media/a7863166a7a3337e3e752f2c03e19e1cf181289b/0_64_2048_1229/master/2048.jpg?width=620&quality=45&dpr=2&s=none",
+  "city": {
+    "en": "Santiago",
+    "es": "Santiago"
+  }
+}
