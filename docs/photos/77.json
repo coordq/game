@@ -1,0 +1,14 @@
+{
+  "year": 2002,
+  "location": {
+    "latitude": 53.592875140051575,
+    "longitude": 10.051578870043148
+  },
+  "country": "DEU",
+  "infoURL": "https://www.reddit.com/r/tennis/comments/f39lj0/roger_federer_wins_first_masters_1000_title_in/",
+  "photo": "https://media.gettyimages.com/id/52861582/es/foto/masters-series-2002-hamburg-jubel-sieger-roger-federer-sui.jpg?s=612x612&w=0&k=20&c=IpfjExTDascZ-Cd7r9HQAQJD1wRqxjSQgsPmStQCMqs=",
+  "city": {
+    "en": "Hamburg",
+    "es": "Hamburgo"
+  }
+}
